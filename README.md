@@ -76,7 +76,7 @@ Predicted Remaining Useful Life (RUL): 201.62 cycles
 
 Clone this repository
 
-git clone https://github.com/your-username/aircraft-rul-prediction.git
+git clone https://github.com/Jayshree-12-2/Aircraft-Engine-Remaining-Useful-Life-Prediction-Using-Machine-Learning-Model-.git
 
 
 
